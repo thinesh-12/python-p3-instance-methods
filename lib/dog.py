@@ -12,8 +12,4 @@ class Dog:
     def sit(self):
       print("the dog is sitting.")
    
-     
-      fido = Dog()
-      fido.bark()
-      fido.sit()
       
